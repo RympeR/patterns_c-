@@ -1,0 +1,7 @@
+C:\Users\Георгий Рашков\source\repos\DecoratorStarBuzz\DecoratorStarBuzz\bin\Debug\DecoratorStarBuzz.exe.config
+C:\Users\Георгий Рашков\source\repos\DecoratorStarBuzz\DecoratorStarBuzz\bin\Debug\DecoratorStarBuzz.exe
+C:\Users\Георгий Рашков\source\repos\DecoratorStarBuzz\DecoratorStarBuzz\bin\Debug\DecoratorStarBuzz.pdb
+C:\Users\Георгий Рашков\source\repos\DecoratorStarBuzz\DecoratorStarBuzz\obj\Debug\DecoratorStarBuzz.csprojAssemblyReference.cache
+C:\Users\Георгий Рашков\source\repos\DecoratorStarBuzz\DecoratorStarBuzz\obj\Debug\DecoratorStarBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Георгий Рашков\source\repos\DecoratorStarBuzz\DecoratorStarBuzz\obj\Debug\DecoratorStarBuzz.exe
+C:\Users\Георгий Рашков\source\repos\DecoratorStarBuzz\DecoratorStarBuzz\obj\Debug\DecoratorStarBuzz.pdb

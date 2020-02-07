@@ -1,0 +1,7 @@
+C:\Users\Георгий Рашков\source\repos\ShablonIntegral\ShablonIntegral\bin\Debug\ShablonIntegral.exe.config
+C:\Users\Георгий Рашков\source\repos\ShablonIntegral\ShablonIntegral\bin\Debug\ShablonIntegral.exe
+C:\Users\Георгий Рашков\source\repos\ShablonIntegral\ShablonIntegral\bin\Debug\ShablonIntegral.pdb
+C:\Users\Георгий Рашков\source\repos\ShablonIntegral\ShablonIntegral\obj\Debug\ShablonIntegral.csprojAssemblyReference.cache
+C:\Users\Георгий Рашков\source\repos\ShablonIntegral\ShablonIntegral\obj\Debug\ShablonIntegral.csproj.CoreCompileInputs.cache
+C:\Users\Георгий Рашков\source\repos\ShablonIntegral\ShablonIntegral\obj\Debug\ShablonIntegral.exe
+C:\Users\Георгий Рашков\source\repos\ShablonIntegral\ShablonIntegral\obj\Debug\ShablonIntegral.pdb

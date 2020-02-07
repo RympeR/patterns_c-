@@ -1,0 +1,11 @@
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\bin\Debug\netcoreapp2.1\PatternObserver.deps.json
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\bin\Debug\netcoreapp2.1\PatternObserver.runtimeconfig.json
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\bin\Debug\netcoreapp2.1\PatternObserver.runtimeconfig.dev.json
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\bin\Debug\netcoreapp2.1\PatternObserver.dll
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\bin\Debug\netcoreapp2.1\PatternObserver.pdb
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\obj\Debug\netcoreapp2.1\PatternObserver.csprojAssemblyReference.cache
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\obj\Debug\netcoreapp2.1\PatternObserver.csproj.CoreCompileInputs.cache
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\obj\Debug\netcoreapp2.1\PatternObserver.AssemblyInfoInputs.cache
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\obj\Debug\netcoreapp2.1\PatternObserver.AssemblyInfo.cs
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\obj\Debug\netcoreapp2.1\PatternObserver.dll
+C:\Users\Георгий Рашков\source\repos\PatternObserver\PatternObserver\obj\Debug\netcoreapp2.1\PatternObserver.pdb

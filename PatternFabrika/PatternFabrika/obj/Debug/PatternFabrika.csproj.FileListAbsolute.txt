@@ -1,0 +1,7 @@
+C:\Users\Георгий Рашков\source\repos\PatternFabrika\PatternFabrika\obj\Debug\PatternFabrika.csprojAssemblyReference.cache
+C:\Users\Георгий Рашков\source\repos\PatternFabrika\PatternFabrika\obj\Debug\PatternFabrika.csproj.CoreCompileInputs.cache
+C:\Users\Георгий Рашков\source\repos\PatternFabrika\PatternFabrika\bin\Debug\PatternFabrika.exe.config
+C:\Users\Георгий Рашков\source\repos\PatternFabrika\PatternFabrika\bin\Debug\PatternFabrika.exe
+C:\Users\Георгий Рашков\source\repos\PatternFabrika\PatternFabrika\bin\Debug\PatternFabrika.pdb
+C:\Users\Георгий Рашков\source\repos\PatternFabrika\PatternFabrika\obj\Debug\PatternFabrika.exe
+C:\Users\Георгий Рашков\source\repos\PatternFabrika\PatternFabrika\obj\Debug\PatternFabrika.pdb

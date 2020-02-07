@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "PatternStrategy", "PatternStrategy\PatternStrategy.shproj", "{7CFD9822-E91E-4C4E-8781-D904F77184F8}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		PatternStrategy\PatternStrategy.projitems*{7cfd9822-e91e-4c4e-8781-d904f77184f8}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D07BBA0-F101-4D82-9E91-A386E7675F44}
+	EndGlobalSection
+EndGlobal

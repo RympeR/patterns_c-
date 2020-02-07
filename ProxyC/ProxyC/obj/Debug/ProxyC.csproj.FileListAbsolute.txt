@@ -1,0 +1,7 @@
+C:\Users\Георгий Рашков\source\repos\ProxyC\ProxyC\bin\Debug\ProxyC.exe.config
+C:\Users\Георгий Рашков\source\repos\ProxyC\ProxyC\bin\Debug\ProxyC.exe
+C:\Users\Георгий Рашков\source\repos\ProxyC\ProxyC\bin\Debug\ProxyC.pdb
+C:\Users\Георгий Рашков\source\repos\ProxyC\ProxyC\obj\Debug\ProxyC.csprojAssemblyReference.cache
+C:\Users\Георгий Рашков\source\repos\ProxyC\ProxyC\obj\Debug\ProxyC.csproj.CoreCompileInputs.cache
+C:\Users\Георгий Рашков\source\repos\ProxyC\ProxyC\obj\Debug\ProxyC.exe
+C:\Users\Георгий Рашков\source\repos\ProxyC\ProxyC\obj\Debug\ProxyC.pdb
